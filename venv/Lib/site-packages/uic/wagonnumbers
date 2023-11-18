@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# make this file executable and put it into a directory that is inside your
+# PATH environment variable in order to conveniently use the function
+# "wagonnumbers" from the command line
+import sys
+import uic.frogs
+frog = uic.frogs.uic._wagonnumbers
+sys.exit(frog())

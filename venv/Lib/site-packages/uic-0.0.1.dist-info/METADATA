@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: uic
+Version: 0.0.1
+Summary: Self-check digit calculator for UIC wagon numbers
+Project-URL: Source, https://github.com/proggy/uic
+Project-URL: Homepage, https://github.com/proggy/uic
+Project-URL: Bug Tracker, https://github.com/proggy/uic/issues
+Author-email: Daniel Jung <proggy@mailbox.org>
+Maintainer-email: Daniel Jung <proggy@mailbox.org>
+License-File: LICENSE.txt
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+uic
+===
+
+Self-check digit calculator for UIC wagon numbers.  Tools around UIC wagon
+numbers. Check validity of self-check digits, calculate self-check digits.
+
+
+Copyright Notice
+----------------
+
+Copyright (C) 2014-2023 Daniel Jung
+Contact: proggy@mailbox.org
+
+
+License
+-------
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation; either version 2 of the License, or (at your option)
+any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
+more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.
